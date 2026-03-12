@@ -1,31 +1,31 @@
-# MLVault 🚀
+# MLVault 
 
 A curated collection of **Machine Learning resources, notes, and learning materials**.
 This repository is designed to help students and beginners understand core ML concepts with structured resources.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
-### 🔹 Supervised ML
+### Supervised ML
 Contains materials related to supervised learning algorithms such as:
 - Logistic Regression
 - Classification techniques
 - Regression models
 
-### 🔹 Unsupervised Learning
+###  Unsupervised Learning
 Includes resources on:
 - Clustering algorithms
 - K-Means clustering
 - Dimensionality reduction
 
-### 🔹 Data Cleaning
+### Data Cleaning
 Learning materials covering:
 - Handling missing data
 - Data preprocessing
 - Data transformation
 
-### 🔹 Feature Scaling
+###  Feature Scaling
 Resources explaining:
 - Normalization
 - Standardization
@@ -33,7 +33,7 @@ Resources explaining:
 
 ---
 
-## 📚 Included Learning Resources
+## Included Learning Resources
 
 This repository contains multiple machine learning resources such as:
 - Machine Learning Notes
@@ -46,7 +46,7 @@ This repository contains multiple machine learning resources such as:
 
 ---
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 The goal of this repository is to:
 - Provide **organized ML study materials**
@@ -55,7 +55,7 @@ The goal of this repository is to:
 
 ---
 
-## 🛠 Topics Covered
+## Topics Covered
 
 - Data Cleaning
 - Feature Engineering
@@ -66,10 +66,10 @@ The goal of this repository is to:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Mohd Shami**
 
 ---
 
-⭐ If you find this repository useful, consider **starring the repo**.
+ If you find this repository useful, consider **starring the repo**.
